@@ -1,8 +1,4 @@
-# Matteo Vicenzino SM3201397
-
-
 # parameters
-
 CC = gcc
 CFLAGS = -O3 -fopenmp
 LIB = lib
