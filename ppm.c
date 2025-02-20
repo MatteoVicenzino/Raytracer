@@ -1,5 +1,3 @@
-// Matteo Vicenzino SM3201397
-
 #include "ppm.h"
 #include "scene.h"
 #include <stdio.h>
