@@ -1,5 +1,3 @@
-// Matteo Vicenzino SM3201397
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdint.h>
