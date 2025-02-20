@@ -1,5 +1,3 @@
-// Matteo Vicenzino SM3201397
-
 #ifndef _PPM_H 
 #define _PPM_H
 
