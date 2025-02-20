@@ -1,5 +1,3 @@
-// Matteo Vicenzino SM3201397
-
 #ifndef _SCENE_H
 #define _SCENE_H
 
